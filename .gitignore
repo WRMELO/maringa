@@ -1,0 +1,17 @@
+# Exceções padrão
+*.log
+*.tmp
+*.swp
+*.bak
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+__pycache__/
+.env
+.vscode/
+.idea/
+node_modules/
+
+# Diretórios específicos a serem ignorados
+fase_1_diagnostico/dados/dados_iniciais/

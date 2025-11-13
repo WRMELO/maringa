@@ -12,6 +12,9 @@ __pycache__/
 .vscode/
 .idea/
 node_modules/
+.obsidian/
 
-# Diretórios específicos a serem ignorados
+# Ignorar atualizações futuras
 fase_1_diagnostico/dados/dados_iniciais/
+
+

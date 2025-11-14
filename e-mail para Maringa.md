@@ -1,4 +1,4 @@
-Assunto: Identificação da variável de distância ponta–fundo nos dicionários
+# Assunto: Identificação da variável de distância ponta–fundo nos dicionários
 
 Pessoal,
 
@@ -7,5 +7,3 @@ Finalizamos o parser dos dicionários em .txt e já classificamos automaticament
 Vocês podem confirmar qual tag (ou combinação de tags) do supervisório melhor representa essa distância para cada forno? Assim que tivermos essa informação, incluiremos o campo na categoria correta e conseguiremos avançar com as próximas etapas (cobertura temporal, completude e preparação de modelos).
 
 Obrigado!
-
-

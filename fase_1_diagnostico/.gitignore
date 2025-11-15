@@ -1,0 +1,2 @@
+# Ignore environment secrets and local configs
+infra/env/

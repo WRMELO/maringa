@@ -1,0 +1,168 @@
+fonte_manifesto,pasta_raiz,path_local_base,descricao_manifesto,qtd_arquivos_reportada,observacoes_manifesto
+index_resumo_por_pasta,Consumo Fornos,dados/dados_iniciais/Consumo Fornos,"2018_CONSUMO; F5, F4, F3, F2; CSV",4,"F5, F4, F3, F2"
+index_resumo_por_pasta,Consumo Fornos,dados/dados_iniciais/Consumo Fornos,"2019_CONSUMO; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Consumo Fornos,dados/dados_iniciais/Consumo Fornos,"2020_CONSUMO; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Consumo Fornos,dados/dados_iniciais/Consumo Fornos,"2021_CONSUMO; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Consumo Fornos,dados/dados_iniciais/Consumo Fornos,"2022_CONSUMO; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Consumo Fornos,dados/dados_iniciais/Consumo Fornos,"2023_CONSUMO; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Consumo Fornos,dados/dados_iniciais/Consumo Fornos,"2024_CONSUMO; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Consumo Fornos,dados/dados_iniciais/Consumo Fornos,"2025_CONSUMO; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2018_F2_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2018_F3_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2018_F4_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2018_F5_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2019_F1_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2019_F2_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2019_F3_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2019_F4_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2019_F5_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2020_F1_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2020_F2_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2020_F3_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2020_F4_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2020_F5_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2021_F1_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2021_F2_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2021_F3_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2021_F4_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2021_F5_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2022_F1_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2022_F2_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2022_F3_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2022_F4_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2022_F5_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2023_F1_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2023_F2_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2023_F3_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2023_F4_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2023_F5_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2024_F1_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2024_F2_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2024_F3_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2024_F4_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2024_F5_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2025_F1_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2025_F2_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2025_F3_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2025_F4_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+manifest_index,Consumo Fornos,dados/dados_iniciais/Consumo Fornos/2025_F5_Consumo.csv,Consumo,1,type=csv; variavel=Consumo
+index_resumo_por_pasta,Corridas,dados/dados_iniciais/Corridas,"2018_CORRIDA; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Corridas,dados/dados_iniciais/Corridas,"2019_CORRIDA; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Corridas,dados/dados_iniciais/Corridas,"2020_CORRIDA; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Corridas,dados/dados_iniciais/Corridas,"2021_CORRIDA; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Corridas,dados/dados_iniciais/Corridas,"2022_CORRIDA; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Corridas,dados/dados_iniciais/Corridas,"2023_CORRIDA; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Corridas,dados/dados_iniciais/Corridas,"2024_CORRIDA; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Corridas,dados/dados_iniciais/Corridas,"2025_CORRIDA; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2018_F1_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2018_F2_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2018_F3_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2018_F4_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2018_F5_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2019_F1_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2019_F2_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2019_F3_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2019_F4_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2019_F5_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2020_F1_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2020_F2_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2020_F3_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2020_F4_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2020_F5_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2021_F1_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2021_F2_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2021_F3_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2021_F4_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2021_F5_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2022_F1_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2022_F2_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2022_F3_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2022_F4_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2022_F5_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2023_F1_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2023_F2_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2023_F3_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2023_F4_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2023_F5_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2024_F1_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2024_F2_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2024_F3_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2024_F4_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2024_F5_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2025_F1_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2025_F2_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2025_F3_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2025_F4_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Corridas,dados/dados_iniciais/Corridas/2025_F5_Corrida.csv,Corrida,1,type=csv; variavel=Corrida
+manifest_index,Dicionário,dados/dados_iniciais/Dicionário/Dic_Consumo.xlsx,Consumo,1,type=xlsx; variavel=Consumo
+manifest_index,Dicionário,dados/dados_iniciais/Dicionário/Dic_Corrida.xlsx,Corrida,1,type=xlsx; variavel=Corrida
+manifest_index,Dicionário,dados/dados_iniciais/Dicionário/Dic_Inf_Diário.xlsx,Dicionario_Dados,1,type=xlsx; variavel=Dicionario_Dados
+manifest_index,Dicionário,dados/dados_iniciais/Dicionário/Dic_Supervisorio F4.xlsx,Supervisório,1,type=xlsx; forno=F4; variavel=Supervisório
+manifest_index,Dicionário,dados/dados_iniciais/Dicionário/Dic_Supervisorio F5 Hora.xlsx,Supervisório,1,type=xlsx; forno=F5; variavel=Supervisório
+manifest_index,Dicionário,dados/dados_iniciais/Dicionário/Dic_Supervisorio F5 Minuto.xlsx,Supervisório,1,type=xlsx; forno=F5; variavel=Supervisório
+manifest_index,Dicionário,dados/dados_iniciais/Dicionário/Dic_eletrodo.xlsx,Comprimento_Eletrodo,1,type=xlsx; variavel=Comprimento_Eletrodo
+index_resumo_por_pasta,Dicionário,dados/dados_iniciais/Dicionário,DIC_CONSUMO; XLSX,1,
+index_resumo_por_pasta,Dicionário,dados/dados_iniciais/Dicionário,DIC_CORRIDA; XLSX,1,
+index_resumo_por_pasta,Dicionário,dados/dados_iniciais/Dicionário,DIC_ELETRODO; XLSX,1,
+index_resumo_por_pasta,Dicionário,dados/dados_iniciais/Dicionário,DIC_INF_DIÁRIO; XLSX,1,
+index_resumo_por_pasta,Dicionário,dados/dados_iniciais/Dicionário,DIC_SUPERVISORIO; F4; XLSX,1,F4
+index_resumo_por_pasta,Dicionário,dados/dados_iniciais/Dicionário,DIC_SUPERVISORIO_HORA; F5; XLSX,1,F5
+index_resumo_por_pasta,Dicionário,dados/dados_iniciais/Dicionário,DIC_SUPERVISORIO_MINUTO; F5; XLSX,1,F5
+index_resumo_por_pasta,Eletrodo,dados/dados_iniciais/Eletrodo,MEDIÇÃO_ELETRODO; CSV,1,
+manifest_index,Eletrodo,dados/dados_iniciais/Eletrodo/Medição Eletrodo.csv,Comprimento_Eletrodo,1,type=csv; variavel=Comprimento_Eletrodo
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2018_F1_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2018_F2_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2018_F3_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2018_F4_Inf.Diario.csv,F4_Supervisorio,1,type=csv; variavel=F4_Supervisorio
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2018_F5_Inf.Diario.csv,F5_Supervisorio,1,type=csv; variavel=F5_Supervisorio
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2019_F1_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2019_F2_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2019_F3_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2019_F4_Inf.Diario.csv,F4_Supervisorio,1,type=csv; variavel=F4_Supervisorio
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2019_F5_Inf.Diario.csv,F5_Supervisorio,1,type=csv; variavel=F5_Supervisorio
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2020_F1_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2020_F2_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2020_F3_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2020_F4_Inf.Diario.csv,F4_Supervisorio,1,type=csv; variavel=F4_Supervisorio
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2020_F5_Inf.Diario.csv,F5_Supervisorio,1,type=csv; variavel=F5_Supervisorio
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2021_F1_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2021_F2_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2021_F3_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2021_F4_Inf.Diario.csv,F4_Supervisorio,1,type=csv; variavel=F4_Supervisorio
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2021_F5_Inf.Diario.csv,F5_Supervisorio,1,type=csv; variavel=F5_Supervisorio
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2022_F1_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2022_F2_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2022_F3_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2022_F4_Inf.Diario.csv,F4_Supervisorio,1,type=csv; variavel=F4_Supervisorio
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2022_F5_Inf.Diario.csv,F5_Supervisorio,1,type=csv; variavel=F5_Supervisorio
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2023_F1_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2023_F2_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2023_F3_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2023_F4_Inf.Diario.csv,F4_Supervisorio,1,type=csv; variavel=F4_Supervisorio
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2023_F5_Inf.Diario.csv,F5_Supervisorio,1,type=csv; variavel=F5_Supervisorio
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2024_F1_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2024_F2_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2024_F3_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2024_F4_Inf.Diario.csv,F4_Supervisorio,1,type=csv; variavel=F4_Supervisorio
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2024_F5_Inf.Diario.csv,F5_Supervisorio,1,type=csv; variavel=F5_Supervisorio
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2025_F1_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2025_F2_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2025_F3_Inf.Diario.csv,csv,1,type=csv
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2025_F4_Inf.Diario.csv,F4_Supervisorio,1,type=csv; variavel=F4_Supervisorio
+manifest_index,Informações Diária,dados/dados_iniciais/Informações Diária/2025_F5_Inf.Diario.csv,F5_Supervisorio,1,type=csv; variavel=F5_Supervisorio
+index_resumo_por_pasta,Informações Diária,dados/dados_iniciais/Informações Diária,"2018_INF_DIARIO; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Informações Diária,dados/dados_iniciais/Informações Diária,"2019_INF_DIARIO; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Informações Diária,dados/dados_iniciais/Informações Diária,"2020_INF_DIARIO; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Informações Diária,dados/dados_iniciais/Informações Diária,"2021_INF_DIARIO; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Informações Diária,dados/dados_iniciais/Informações Diária,"2022_INF_DIARIO; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Informações Diária,dados/dados_iniciais/Informações Diária,"2023_INF_DIARIO; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Informações Diária,dados/dados_iniciais/Informações Diária,"2024_INF_DIARIO; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Informações Diária,dados/dados_iniciais/Informações Diária,"2025_INF_DIARIO; F5, F4, F3, F2, F1; CSV",5,"F5, F4, F3, F2, F1"
+index_resumo_por_pasta,Supervisorio Forno 4,dados/dados_iniciais/Supervisorio Forno 4,2024_1S; F4; CSV,1,F4
+index_resumo_por_pasta,Supervisorio Forno 4,dados/dados_iniciais/Supervisorio Forno 4,2024_2S; F4; CSV,1,F4
+manifest_index,Supervisorio Forno 4,dados/dados_iniciais/Supervisorio Forno 4/F4_2024_1S.csv,Supervisório,1,type=csv; forno=F4; variavel=Supervisório
+manifest_index,Supervisorio Forno 4,dados/dados_iniciais/Supervisorio Forno 4/F4_2024_2S.csv,Supervisório,1,type=csv; forno=F4; variavel=Supervisório
+index_resumo_por_pasta,Supervisorio Forno 5,dados/dados_iniciais/Supervisorio Forno 5,SUPERVISORIO_MINUTO; F5; CSV,1,F5
+index_resumo_por_pasta,Supervisorio Forno 5,dados/dados_iniciais/Supervisorio Forno 5,SUPERVISOR_HORA; F5; CSV,1,F5
+manifest_index,Supervisorio Forno 5,dados/dados_iniciais/Supervisorio Forno 5/Supervisor_F5 Hora.csv,Supervisório,1,type=csv; forno=F5; variavel=Supervisório
+manifest_index,Supervisorio Forno 5,dados/dados_iniciais/Supervisorio Forno 5/Supervisorio_F5_Minuto.csv,Supervisório,1,type=csv; forno=F5; variavel=Supervisório

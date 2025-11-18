@@ -16,5 +16,6 @@ node_modules/
 
 # Ignorar atualizações futuras
 fase_1_diagnostico/dados/dados_iniciais/
+fase_1_diagnostico/infra/minio/data/
 
 

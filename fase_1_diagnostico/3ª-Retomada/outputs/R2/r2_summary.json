@@ -1,0 +1,10 @@
+{
+  "run_ts": "2026-01-05_173712",
+  "manifest_path": "/home/wilson/Maringa/fase_1_diagnostico/dados/manifestos_final/manifest_unificado.csv",
+  "dados_iniciais_dir": "/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais",
+  "n_total_files_manifest": 145,
+  "n_csv_files": 124,
+  "n_csv_ok": 124,
+  "n_csv_fail": 0,
+  "n_dominios": 6
+}

@@ -1,0 +1,14 @@
+{
+  "run_ts": "2026-01-05_162203",
+  "base_dir": "/home/wilson/Maringa/fase_1_diagnostico",
+  "manifest_path": "/home/wilson/Maringa/fase_1_diagnostico/dados/manifestos_final/manifest_unificado.csv",
+  "dados_iniciais_dir": "/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais",
+  "path_col": "path_local",
+  "total_linhas_manifesto": 145,
+  "arquivos_unicos_manifesto": 145,
+  "encontrados_no_fs": 145,
+  "ausentes_no_fs": 0,
+  "duplicados_no_manifesto_linhas": 0,
+  "total_arquivos_fs": 145,
+  "orfaos_no_fs": 0
+}

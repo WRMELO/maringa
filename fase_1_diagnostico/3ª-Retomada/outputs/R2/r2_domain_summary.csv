@@ -1,0 +1,7 @@
+dominio,n_files,n_ok,n_fail,total_rows,total_cols_mean
+Consumo Fornos,39,39,0,38123141,27.41025641025641
+Corridas,40,40,0,114949,34.075
+Eletrodo,1,1,0,761,5.0
+Informações Diária,40,40,0,14232,47.225
+Supervisorio Forno 4,2,2,0,486250,228.0
+Supervisorio Forno 5,2,2,0,242099,25.5

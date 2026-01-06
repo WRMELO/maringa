@@ -1,0 +1,146 @@
+path_local,rel_norm,dominio,suffix,size_bytes,in_raw_dir
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2019_F1_Consumo.csv,Consumo Fornos/2019_F1_Consumo.csv,Consumo Fornos,.csv,42566405,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2020_F1_Consumo.csv,Consumo Fornos/2020_F1_Consumo.csv,Consumo Fornos,.csv,28785370,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2021_F1_Consumo.csv,Consumo Fornos/2021_F1_Consumo.csv,Consumo Fornos,.csv,29619879,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2022_F1_Consumo.csv,Consumo Fornos/2022_F1_Consumo.csv,Consumo Fornos,.csv,29118391,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2023_F1_Consumo.csv,Consumo Fornos/2023_F1_Consumo.csv,Consumo Fornos,.csv,28111195,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2024_F1_Consumo.csv,Consumo Fornos/2024_F1_Consumo.csv,Consumo Fornos,.csv,27148206,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2025_F1_Consumo.csv,Consumo Fornos/2025_F1_Consumo.csv,Consumo Fornos,.csv,25851580,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2018_F2_Consumo.csv,Consumo Fornos/2018_F2_Consumo.csv,Consumo Fornos,.csv,28950526,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2019_F2_Consumo.csv,Consumo Fornos/2019_F2_Consumo.csv,Consumo Fornos,.csv,28760963,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2020_F2_Consumo.csv,Consumo Fornos/2020_F2_Consumo.csv,Consumo Fornos,.csv,29180244,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2021_F2_Consumo.csv,Consumo Fornos/2021_F2_Consumo.csv,Consumo Fornos,.csv,29489172,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2022_F2_Consumo.csv,Consumo Fornos/2022_F2_Consumo.csv,Consumo Fornos,.csv,27976113,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2023_F2_Consumo.csv,Consumo Fornos/2023_F2_Consumo.csv,Consumo Fornos,.csv,27741319,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2024_F2_Consumo.csv,Consumo Fornos/2024_F2_Consumo.csv,Consumo Fornos,.csv,27027376,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2025_F2_Consumo.csv,Consumo Fornos/2025_F2_Consumo.csv,Consumo Fornos,.csv,25864804,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2018_F3_Consumo.csv,Consumo Fornos/2018_F3_Consumo.csv,Consumo Fornos,.csv,29621377,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2019_F3_Consumo.csv,Consumo Fornos/2019_F3_Consumo.csv,Consumo Fornos,.csv,28347657,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2020_F3_Consumo.csv,Consumo Fornos/2020_F3_Consumo.csv,Consumo Fornos,.csv,29482363,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2021_F3_Consumo.csv,Consumo Fornos/2021_F3_Consumo.csv,Consumo Fornos,.csv,30420845,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2022_F3_Consumo.csv,Consumo Fornos/2022_F3_Consumo.csv,Consumo Fornos,.csv,29895389,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2023_F3_Consumo.csv,Consumo Fornos/2023_F3_Consumo.csv,Consumo Fornos,.csv,29185727,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2024_F3_Consumo.csv,Consumo Fornos/2024_F3_Consumo.csv,Consumo Fornos,.csv,28472176,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2025_F3_Consumo.csv,Consumo Fornos/2025_F3_Consumo.csv,Consumo Fornos,.csv,25839105,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2018_F4_Consumo.csv,Consumo Fornos/2018_F4_Consumo.csv,Consumo Fornos,.csv,30486644,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2019_F4_Consumo.csv,Consumo Fornos/2019_F4_Consumo.csv,Consumo Fornos,.csv,29275772,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2020_F4_Consumo.csv,Consumo Fornos/2020_F4_Consumo.csv,Consumo Fornos,.csv,45397110,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2021_F4_Consumo.csv,Consumo Fornos/2021_F4_Consumo.csv,Consumo Fornos,.csv,28947936,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2022_F4_Consumo.csv,Consumo Fornos/2022_F4_Consumo.csv,Consumo Fornos,.csv,27978735,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2023_F4_Consumo.csv,Consumo Fornos/2023_F4_Consumo.csv,Consumo Fornos,.csv,27076903,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2024_F4_Consumo.csv,Consumo Fornos/2024_F4_Consumo.csv,Consumo Fornos,.csv,25779487,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2025_F4_Consumo.csv,Consumo Fornos/2025_F4_Consumo.csv,Consumo Fornos,.csv,25881788,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2018_F5_Consumo.csv,Consumo Fornos/2018_F5_Consumo.csv,Consumo Fornos,.csv,29401101,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2019_F5_Consumo.csv,Consumo Fornos/2019_F5_Consumo.csv,Consumo Fornos,.csv,30221273,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2020_F5_Consumo.csv,Consumo Fornos/2020_F5_Consumo.csv,Consumo Fornos,.csv,29179769,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2021_F5_Consumo.csv,Consumo Fornos/2021_F5_Consumo.csv,Consumo Fornos,.csv,29034809,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2022_F5_Consumo.csv,Consumo Fornos/2022_F5_Consumo.csv,Consumo Fornos,.csv,28114035,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2023_F5_Consumo.csv,Consumo Fornos/2023_F5_Consumo.csv,Consumo Fornos,.csv,26887825,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2024_F5_Consumo.csv,Consumo Fornos/2024_F5_Consumo.csv,Consumo Fornos,.csv,25703887,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Consumo Fornos/2025_F5_Consumo.csv,Consumo Fornos/2025_F5_Consumo.csv,Consumo Fornos,.csv,25892216,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2018_F1_Corrida.csv,Corridas/2018_F1_Corrida.csv,Corridas,.csv,632145,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2019_F1_Corrida.csv,Corridas/2019_F1_Corrida.csv,Corridas,.csv,614385,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2020_F1_Corrida.csv,Corridas/2020_F1_Corrida.csv,Corridas,.csv,638769,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2021_F1_Corrida.csv,Corridas/2021_F1_Corrida.csv,Corridas,.csv,685561,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2022_F1_Corrida.csv,Corridas/2022_F1_Corrida.csv,Corridas,.csv,704506,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2023_F1_Corrida.csv,Corridas/2023_F1_Corrida.csv,Corridas,.csv,674680,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2024_F1_Corrida.csv,Corridas/2024_F1_Corrida.csv,Corridas,.csv,580697,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2025_F1_Corrida.csv,Corridas/2025_F1_Corrida.csv,Corridas,.csv,201008,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2018_F2_Corrida.csv,Corridas/2018_F2_Corrida.csv,Corridas,.csv,679471,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2019_F2_Corrida.csv,Corridas/2019_F2_Corrida.csv,Corridas,.csv,567206,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2020_F2_Corrida.csv,Corridas/2020_F2_Corrida.csv,Corridas,.csv,614025,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2021_F2_Corrida.csv,Corridas/2021_F2_Corrida.csv,Corridas,.csv,685375,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2022_F2_Corrida.csv,Corridas/2022_F2_Corrida.csv,Corridas,.csv,686359,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2023_F2_Corrida.csv,Corridas/2023_F2_Corrida.csv,Corridas,.csv,675147,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2024_F2_Corrida.csv,Corridas/2024_F2_Corrida.csv,Corridas,.csv,663962,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2025_F2_Corrida.csv,Corridas/2025_F2_Corrida.csv,Corridas,.csv,214009,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2018_F3_Corrida.csv,Corridas/2018_F3_Corrida.csv,Corridas,.csv,572977,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2019_F3_Corrida.csv,Corridas/2019_F3_Corrida.csv,Corridas,.csv,474821,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2020_F3_Corrida.csv,Corridas/2020_F3_Corrida.csv,Corridas,.csv,595863,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2021_F3_Corrida.csv,Corridas/2021_F3_Corrida.csv,Corridas,.csv,698984,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2022_F3_Corrida.csv,Corridas/2022_F3_Corrida.csv,Corridas,.csv,591412,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2023_F3_Corrida.csv,Corridas/2023_F3_Corrida.csv,Corridas,.csv,452000,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2024_F3_Corrida.csv,Corridas/2024_F3_Corrida.csv,Corridas,.csv,409391,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2025_F3_Corrida.csv,Corridas/2025_F3_Corrida.csv,Corridas,.csv,219194,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2018_F4_Corrida.csv,Corridas/2018_F4_Corrida.csv,Corridas,.csv,692911,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2019_F4_Corrida.csv,Corridas/2019_F4_Corrida.csv,Corridas,.csv,640988,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2020_F4_Corrida.csv,Corridas/2020_F4_Corrida.csv,Corridas,.csv,777633,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2021_F4_Corrida.csv,Corridas/2021_F4_Corrida.csv,Corridas,.csv,932365,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2022_F4_Corrida.csv,Corridas/2022_F4_Corrida.csv,Corridas,.csv,824438,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2023_F4_Corrida.csv,Corridas/2023_F4_Corrida.csv,Corridas,.csv,933347,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2024_F4_Corrida.csv,Corridas/2024_F4_Corrida.csv,Corridas,.csv,931705,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2025_F4_Corrida.csv,Corridas/2025_F4_Corrida.csv,Corridas,.csv,274796,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2018_F5_Corrida.csv,Corridas/2018_F5_Corrida.csv,Corridas,.csv,683817,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2019_F5_Corrida.csv,Corridas/2019_F5_Corrida.csv,Corridas,.csv,628144,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2020_F5_Corrida.csv,Corridas/2020_F5_Corrida.csv,Corridas,.csv,823293,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2021_F5_Corrida.csv,Corridas/2021_F5_Corrida.csv,Corridas,.csv,930016,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2022_F5_Corrida.csv,Corridas/2022_F5_Corrida.csv,Corridas,.csv,899884,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2023_F5_Corrida.csv,Corridas/2023_F5_Corrida.csv,Corridas,.csv,949206,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2024_F5_Corrida.csv,Corridas/2024_F5_Corrida.csv,Corridas,.csv,916277,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Corridas/2025_F5_Corrida.csv,Corridas/2025_F5_Corrida.csv,Corridas,.csv,285141,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_pdf/Dic_Supervisorio F4.pdf,Dicionário/em_pdf/Dic_Supervisorio F4.pdf,Dicionário,.pdf,338389,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_pdf/Dic_Supervisorio F4.txt,Dicionário/em_pdf/Dic_Supervisorio F4.txt,Dicionário,.txt,24218,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_xlsx/Dic_Supervisorio F4.xlsx,Dicionário/em_xlsx/Dic_Supervisorio F4.xlsx,Dicionário,.xlsx,234225,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_pdf/Dic_Supervisorio F5 Hora.pdf,Dicionário/em_pdf/Dic_Supervisorio F5 Hora.pdf,Dicionário,.pdf,54132,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_pdf/Dic_Supervisorio F5 Hora.txt,Dicionário/em_pdf/Dic_Supervisorio F5 Hora.txt,Dicionário,.txt,2520,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_xlsx/Dic_Supervisorio F5 Hora.xlsx,Dicionário/em_xlsx/Dic_Supervisorio F5 Hora.xlsx,Dicionário,.xlsx,68607,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_pdf/Dic_Supervisorio F5 Minuto.pdf,Dicionário/em_pdf/Dic_Supervisorio F5 Minuto.pdf,Dicionário,.pdf,47374,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_pdf/Dic_Supervisorio F5 Minuto.txt,Dicionário/em_pdf/Dic_Supervisorio F5 Minuto.txt,Dicionário,.txt,1244,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_xlsx/Dic_Supervisorio F5 Minuto.xlsx,Dicionário/em_xlsx/Dic_Supervisorio F5 Minuto.xlsx,Dicionário,.xlsx,68257,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_pdf/Dic_Consumo.pdf,Dicionário/em_pdf/Dic_Consumo.pdf,Dicionário,.pdf,53403,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_pdf/Dic_Consumo.txt,Dicionário/em_pdf/Dic_Consumo.txt,Dicionário,.txt,1430,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_xlsx/Dic_Consumo.xlsx,Dicionário/em_xlsx/Dic_Consumo.xlsx,Dicionário,.xlsx,68315,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_pdf/Dic_Corrida.pdf,Dicionário/em_pdf/Dic_Corrida.pdf,Dicionário,.pdf,64824,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_pdf/Dic_Corrida.txt,Dicionário/em_pdf/Dic_Corrida.txt,Dicionário,.txt,2663,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_xlsx/Dic_Corrida.xlsx,Dicionário/em_xlsx/Dic_Corrida.xlsx,Dicionário,.xlsx,68944,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_pdf/Dic_Inf_Diário.pdf,Dicionário/em_pdf/Dic_Inf_Diário.pdf,Dicionário,.pdf,73482,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_pdf/Dic_Inf_Diário.txt,Dicionário/em_pdf/Dic_Inf_Diário.txt,Dicionário,.txt,3818,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_xlsx/Dic_Inf_Diário.xlsx,Dicionário/em_xlsx/Dic_Inf_Diário.xlsx,Dicionário,.xlsx,71492,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_pdf/Dic_eletrodo.pdf,Dicionário/em_pdf/Dic_eletrodo.pdf,Dicionário,.pdf,29889,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_pdf/Dic_eletrodo.txt,Dicionário/em_pdf/Dic_eletrodo.txt,Dicionário,.txt,378,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Dicionário/em_xlsx/Dic_eletrodo.xlsx,Dicionário/em_xlsx/Dic_eletrodo.xlsx,Dicionário,.xlsx,67565,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Eletrodo/Medição Eletrodo.csv,Eletrodo/Medição Eletrodo.csv,Eletrodo,.csv,20604,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2018_F1_Inf.Diario.csv,Informações Diária/2018_F1_Inf.Diario.csv,Informações Diária,.csv,92062,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2019_F1_Inf.Diario.csv,Informações Diária/2019_F1_Inf.Diario.csv,Informações Diária,.csv,88046,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2020_F1_Inf.Diario.csv,Informações Diária/2020_F1_Inf.Diario.csv,Informações Diária,.csv,85384,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2021_F1_Inf.Diario.csv,Informações Diária/2021_F1_Inf.Diario.csv,Informações Diária,.csv,87890,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2022_F1_Inf.Diario.csv,Informações Diária/2022_F1_Inf.Diario.csv,Informações Diária,.csv,87246,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2023_F1_Inf.Diario.csv,Informações Diária/2023_F1_Inf.Diario.csv,Informações Diária,.csv,85788,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2024_F1_Inf.Diario.csv,Informações Diária/2024_F1_Inf.Diario.csv,Informações Diária,.csv,80189,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2025_F1_Inf.Diario.csv,Informações Diária/2025_F1_Inf.Diario.csv,Informações Diária,.csv,27559,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2018_F2_Inf.Diario.csv,Informações Diária/2018_F2_Inf.Diario.csv,Informações Diária,.csv,90310,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2019_F2_Inf.Diario.csv,Informações Diária/2019_F2_Inf.Diario.csv,Informações Diária,.csv,89082,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2020_F2_Inf.Diario.csv,Informações Diária/2020_F2_Inf.Diario.csv,Informações Diária,.csv,86419,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2021_F2_Inf.Diario.csv,Informações Diária/2021_F2_Inf.Diario.csv,Informações Diária,.csv,86564,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2022_F2_Inf.Diario.csv,Informações Diária/2022_F2_Inf.Diario.csv,Informações Diária,.csv,84768,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2023_F2_Inf.Diario.csv,Informações Diária/2023_F2_Inf.Diario.csv,Informações Diária,.csv,85438,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2024_F2_Inf.Diario.csv,Informações Diária/2024_F2_Inf.Diario.csv,Informações Diária,.csv,84999,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2025_F2_Inf.Diario.csv,Informações Diária/2025_F2_Inf.Diario.csv,Informações Diária,.csv,27611,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2018_F3_Inf.Diario.csv,Informações Diária/2018_F3_Inf.Diario.csv,Informações Diária,.csv,94780,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2019_F3_Inf.Diario.csv,Informações Diária/2019_F3_Inf.Diario.csv,Informações Diária,.csv,83313,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2020_F3_Inf.Diario.csv,Informações Diária/2020_F3_Inf.Diario.csv,Informações Diária,.csv,92986,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2021_F3_Inf.Diario.csv,Informações Diária/2021_F3_Inf.Diario.csv,Informações Diária,.csv,94233,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2022_F3_Inf.Diario.csv,Informações Diária/2022_F3_Inf.Diario.csv,Informações Diária,.csv,81946,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2023_F3_Inf.Diario.csv,Informações Diária/2023_F3_Inf.Diario.csv,Informações Diária,.csv,60752,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2024_F3_Inf.Diario.csv,Informações Diária/2024_F3_Inf.Diario.csv,Informações Diária,.csv,60489,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2025_F3_Inf.Diario.csv,Informações Diária/2025_F3_Inf.Diario.csv,Informações Diária,.csv,30765,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2018_F4_Inf.Diario.csv,Informações Diária/2018_F4_Inf.Diario.csv,Informações Diária,.csv,361756,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2019_F4_Inf.Diario.csv,Informações Diária/2019_F4_Inf.Diario.csv,Informações Diária,.csv,82203,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2020_F4_Inf.Diario.csv,Informações Diária/2020_F4_Inf.Diario.csv,Informações Diária,.csv,86331,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2021_F4_Inf.Diario.csv,Informações Diária/2021_F4_Inf.Diario.csv,Informações Diária,.csv,89425,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2022_F4_Inf.Diario.csv,Informações Diária/2022_F4_Inf.Diario.csv,Informações Diária,.csv,89052,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2023_F4_Inf.Diario.csv,Informações Diária/2023_F4_Inf.Diario.csv,Informações Diária,.csv,91012,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2024_F4_Inf.Diario.csv,Informações Diária/2024_F4_Inf.Diario.csv,Informações Diária,.csv,91403,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2025_F4_Inf.Diario.csv,Informações Diária/2025_F4_Inf.Diario.csv,Informações Diária,.csv,28198,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2018_F5_Inf.Diario.csv,Informações Diária/2018_F5_Inf.Diario.csv,Informações Diária,.csv,86423,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2019_F5_Inf.Diario.csv,Informações Diária/2019_F5_Inf.Diario.csv,Informações Diária,.csv,82998,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2020_F5_Inf.Diario.csv,Informações Diária/2020_F5_Inf.Diario.csv,Informações Diária,.csv,87593,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2021_F5_Inf.Diario.csv,Informações Diária/2021_F5_Inf.Diario.csv,Informações Diária,.csv,90043,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2022_F5_Inf.Diario.csv,Informações Diária/2022_F5_Inf.Diario.csv,Informações Diária,.csv,93055,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2023_F5_Inf.Diario.csv,Informações Diária/2023_F5_Inf.Diario.csv,Informações Diária,.csv,91347,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2024_F5_Inf.Diario.csv,Informações Diária/2024_F5_Inf.Diario.csv,Informações Diária,.csv,90695,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Informações Diária/2025_F5_Inf.Diario.csv,Informações Diária/2025_F5_Inf.Diario.csv,Informações Diária,.csv,29585,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Supervisorio Forno 4/F4_2024_1S.csv,Supervisorio Forno 4/F4_2024_1S.csv,Supervisorio Forno 4,.csv,530290839,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Supervisorio Forno 4/F4_2024_2S.csv,Supervisorio Forno 4/F4_2024_2S.csv,Supervisorio Forno 4,.csv,384410194,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Supervisorio Forno 5/Supervisor_F5 Hora.csv,Supervisorio Forno 5/Supervisor_F5 Hora.csv,Supervisorio Forno 5,.csv,5148842,True
+/home/wilson/Maringa/fase_1_diagnostico/dados/dados_iniciais/Supervisorio Forno 5/Supervisorio_F5_Minuto.csv,Supervisorio Forno 5/Supervisorio_F5_Minuto.csv,Supervisorio Forno 5,.csv,43484320,True

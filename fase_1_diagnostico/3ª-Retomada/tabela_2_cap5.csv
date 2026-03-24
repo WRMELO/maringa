@@ -1,0 +1,6 @@
+Tipo de modelo,Escopo típico no projeto,Mínimo viável (ordem de grandeza),"Nível ""ótimo"" prático"
+Physic-based,Calibração de parâmetros físicos por regime operacional,15 corridas/campanhas por regime,30–40 corridas/campanhas por regime
+Supervisionado (regressão),"Previsão de consumo específico, composição, rendimento",200–300 corridas por família,1000–3000 corridas por família
+Supervisionado (classificação),"OK/NOK, regimes instáveis, defeitos",500–1000 exemplos rotulados,Alguns milhares de exemplos rotulados
+Não supervisionado (cluster/anomalia),Descoberta de regimes operacionais; detecção de eventos e padrões anômalos,~10^4 pontos de série temporal; ~10^3 pontos,10^5–10^6 pontos (meses); >10^6 pontos (3–12 meses)
+RL off-line + modelo,Otimização de setpoints/decisão com segurança,>=10^3 transições por regime,>=10^4 transições por regime (+ simulação)
